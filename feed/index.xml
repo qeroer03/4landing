@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Empeka Export</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 29 Feb 2024 02:29:32 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://i0.wp.com/asdnewmio.wpcomstaging.com/wp-content/uploads/2024/02/png-empeka-export.png?fit=25%2C32&#038;ssl=1</url>
+	<title>Empeka Export</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">230039911</site>	<item>
+		<title>¡Hola mundo!</title>
+		<link>/2024/02/29/hello-world/</link>
+					<comments>/2024/02/29/hello-world/#respond</comments>
+		
+		<dc:creator><![CDATA[Qeroer]]></dc:creator>
+		<pubDate>Thu, 29 Feb 2024 02:29:32 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false">/2024/02/29/hello-world/</guid>
+
+					<description><![CDATA[Bienvenido a WordPress Esta es tu primera entrada. Empieza tu andadura en el mundo bloguero editándola o borrándola.]]></description>
+										<content:encoded><![CDATA[
+<p>Bienvenido a WordPress Esta es tu primera entrada. Empieza tu andadura en el mundo bloguero editándola o borrándola.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024/02/29/hello-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2</post-id>	</item>
+	</channel>
+</rss>
